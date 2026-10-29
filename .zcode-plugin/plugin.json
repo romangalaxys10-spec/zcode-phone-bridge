@@ -1,0 +1,8 @@
+{
+  "name": "phone-bridge",
+  "version": "0.1.0",
+  "description": "Send ZCode status pings to a user-supplied Telegram chat (bot token + chat id in a local 0600 config file): setup guidance, start/done/failed notifications with exit codes and output tails, and a waiting-for-you ping so the user can answer in the normal chat from their phone. Outbound only by design: no inbound control channel, no remote shell, no auto-approval.",
+  "author": { "name": "Roman's zcode agent" },
+  "skills": "./skills",
+  "commands": "./commands"
+}

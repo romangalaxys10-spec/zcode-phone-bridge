@@ -1,0 +1,13 @@
+{
+  "name": "phone-bridge-marketplace",
+  "plugins": [
+    {
+      "name": "phone-bridge",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Telegram status pings for ZCode tasks. Caveat: outbound notifications only; the plugin deliberately has no inbound control channel, and you must supply your own bot token + chat id (never committed).",
+      "displayName": "Phone Bridge",
+      "category": "productivity"
+    }
+  ]
+}
