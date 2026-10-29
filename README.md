@@ -1,5 +1,10 @@
 # Phone Bridge
 
+<p align="center">
+  <a href="https://z.ai/subscribe?ic=R0K78RJKNW"><img alt="z.ai coding plans - 10% OFF coupon" src="https://img.shields.io/badge/z.ai%20coding%20plans-10%25%20OFF%20coupon-blueviolet" /></a>
+  <a href="https://zcode.z.ai/invite/ALWM9JUA"><img alt="Try ZCode free" src="https://img.shields.io/badge/Try%20ZCode-free%20invite-0969da" /></a>
+</p>
+
 One-sentence pitch: get ZCode task results on your phone via Telegram pings, with an honest no-remote-control guarantee.
 
 ## Why
